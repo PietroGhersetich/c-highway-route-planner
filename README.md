@@ -76,6 +76,7 @@ Feed an input file containing a sequence of commands via standard input redirect
 ```text
 .
 ├── main.c          # Complete C implementation (BST, Max-Heap, DAG, and CLI parser)
-├── Open.pdf    # Official project specification (Italian)
-└── README.md       # Project documentation
+├── Open.pdf        # Official project specification (Italian)
+├── README.md       # Project documentation
+└── LICENSE         # Project MIT License
 ```
